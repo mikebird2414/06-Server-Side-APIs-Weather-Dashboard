@@ -1,5 +1,9 @@
 # 06 Server-Side APIs: Weather Dashboard
 
+# Links:
+Git Resository Link: https://github.com/mikebird2414/06-Server-Side-APIs-Weather-Dashboard
+
+Link to Weather Link: https://mikebird2414.github.io/06-Server-Side-APIs-Weather-Dashboard/
 
 ## Acceptance Criteria
 
